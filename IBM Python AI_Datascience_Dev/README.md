@@ -1,6 +1,6 @@
 # Python AI & Data Science Portfolio
 ## Projects 
-**GDP Data Extraction & Processing**
+**GDP Data Extraction & Processing** /n
 **Python, Pandas, Numpy, Jupyter Basics**
 ## Skills
 - Python, Pandas, NumPy, Juypter
